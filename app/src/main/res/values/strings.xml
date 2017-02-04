@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QuickMovies</string>
+    <string name="main_desc" > Welcome to QuickMovies, \n the ultimate movie discovery platform </string>
+    <string name="skip_log" > <u> Skip Login </u></string>
 </resources>
